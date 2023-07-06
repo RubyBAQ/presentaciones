@@ -34,9 +34,13 @@ Enlace: https://github.com/cesc1989/popurri-soluciones/
 
 **Code Smells en Ruby** por Gabriel Coronado
 
+Hablaremos acerca de los "Code Smells" en general y cuáles son los más comunes en Ruby, además de cómo evitarlos.
+
 Enlace: https://www.dropbox.com/s/7huv4pljoacnxb6/RubyBAQ%20Meetup%20-%20Code%20Smells%20.pdf?dl=0
 
 **Boring Software** por Francisco Quintero
+
+No todo software tiene que ser creado con lo último en tecnología. La mayoría de las veces bastará con tecnología estable y madura.
 
 Enlace: https://docs.google.com/presentation/d/1bfgmXlAQNEoDJ99oog225_w3Y-eF16ep6ogaSjSxgaY/edit?usp=drive_link
 
