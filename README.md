@@ -2,6 +2,20 @@
 
 Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al más antiguo.
 
+## 28 de Junio 2023
+
+**La Idealización del Código** por Francisco Quintero
+
+O cómo solemos creer que personas, proyectos o equipos escriben código idílico.
+
+Enlace: https://docs.google.com/presentation/d/1BB3MXtFGLT6ir7wEfjlUVe2EGdetHBBQiWg_VUgtQgs/edit?usp=drive_link
+
+**Q&A con Guillermo Iguarán**
+
+Espacio de preguntas y respuestas con Guillermo Iguarán, miembro distinguido de la comunidad Ruby en Barranquilla y miembro del equipo Core de Ruby on Rails.
+
+_Fue una vídeo llamada. No hay presentación_
+
 ## 28 Marzo 2023
 
 **SPA con Rails** por Jaime Alvarez
