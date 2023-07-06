@@ -2,6 +2,20 @@
 
 Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al más antiguo.
 
+## 28 Marzo 2023
+
+**SPA con Rails** por Jaime Alvarez
+
+Desarrollo de aplicaciones SPA con Hotwire en Rails
+
+Enlace: _pendiente_
+
+**Popurrí de workarounds en Ruby y en Rails** por Francisco Quintero
+
+Compartiré soluciones puntuales a asuntos específicos que podrías o no encontrarte al escribir código en Ruby.
+
+Enlace: https://github.com/cesc1989/popurri-soluciones/
+
 ## 22 Noviembre 2022
 
 **Code Smells en Ruby** por Gabriel Coronado
