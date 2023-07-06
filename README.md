@@ -2,6 +2,8 @@
 
 Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al más antiguo.
 
+> [Aquí](https://www.meetup.com/es/quillarb/events/past/) puedes ver todos los eventos anteriores de Ruby Baq.
+
 ## 28 de Junio 2023
 
 **La Idealización del Código** por Francisco Quintero
