@@ -4,13 +4,16 @@ Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al 
 
 > [Aquí](https://www.meetup.com/es/quillarb/events/past/) puedes ver todos los eventos anteriores de Ruby Baq.
 
+## 26 de Julio 2023
+
+
 ## 28 de Junio 2023
 
 **La Idealización del Código** por Francisco Quintero
 
 O cómo solemos creer que personas, proyectos o equipos escriben código idílico.
 
-Enlace: https://docs.google.com/presentation/d/1BB3MXtFGLT6ir7wEfjlUVe2EGdetHBBQiWg_VUgtQgs/edit?usp=drive_link
+[Ver presentación](./20230628/La.Idealización.del.Código.RubyBaq.Junio.pdf).
 
 **Q&A con Guillermo Iguarán**
 
