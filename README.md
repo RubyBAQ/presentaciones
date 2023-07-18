@@ -13,7 +13,7 @@ Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al 
 
 O cómo solemos creer que personas, proyectos o equipos escriben código idílico.
 
-[Ver presentación](./20230628/La.Idealización.del.Código.RubyBaq.Junio.pdf).
+[Ver presentación](./20230628/La.Idealizacion.del.Codigo.RubyBaq.Junio.pdf).
 
 **Q&A con Guillermo Iguarán**
 
