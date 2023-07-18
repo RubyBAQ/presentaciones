@@ -6,6 +6,7 @@ Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al 
 
 ## 26 de Julio 2023
 
+_proximamente_
 
 ## 28 de Junio 2023
 
@@ -57,4 +58,4 @@ No todo software tiene que ser creado con lo último en tecnología. La mayoría
 
 **Paneles Administrativos en Rails** por Luis Porras
 
-Enlace: https://slides.com/lporras16/rails-admin
+[Ver presentación en Slides.com](https://slides.com/lporras16/rails-admin).
