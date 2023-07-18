@@ -51,7 +51,7 @@ Enlace: https://docs.google.com/presentation/d/1bfgmXlAQNEoDJ99oog225_w3Y-eF16ep
 
 **Rails te Protege** por Francisco Quintero
 
-Enlace: https://docs.google.com/presentation/d/1otya9NePqRtsJ1jjMJMtpfSgIDAv6LWPDy9-OwmkCyQ/edit?usp=sharing
+[Ver presentación](./20221026/Rails.te.protege.RubyBaq.Oct.2022.pdf).
 
 **Paneles Administrativos en Rails** por Luis Porras
 
