@@ -6,7 +6,17 @@ Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al 
 
 ## 26 de Julio 2023
 
-_proximamente_
+**DevOps... ¿Y eso con qué se come?** por Raúl Córdoba
+
+Corta introducción al maravilloso mundo de DevOps. ¿De qué se encarga?, ¿Qué realizan en su día a día?, herramientas que se usan, conocimientos que necesita, importancia de su rol, terminología y mucho más.
+
+[Ver presentación](./20230726/Devop.¿Y.eso.con.que.se.come.pdf)
+
+**Frontend en Rails. Simpleza y Poder fuera del ecosistema NPM** por Francisco Quintero
+
+Mostraré varias librerías actuales para crear aplicaciones con interacciones similares a las SPA. Además de algunas técnicas para simplificar el trabajo con vistas de Rails y uno que otro aprendizaje. 
+
+[Ver presentación](./20230726/Frontend.en.Rails.Ruby.Baq.Julio.2023.pdf)
 
 ## 28 de Junio 2023
 
