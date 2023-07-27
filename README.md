@@ -16,7 +16,7 @@ Corta introducción al maravilloso mundo de DevOps. ¿De qué se encarga?, ¿Qu�
 
 Mostraré varias librerías actuales para crear aplicaciones con interacciones similares a las SPA. Además de algunas técnicas para simplificar el trabajo con vistas de Rails y uno que otro aprendizaje. 
 
-[Ver presentación](./20230726/Frontend.en.Rails.Ruby.Baq.Julio.2023.pdf)
+[Ver presentación](./20230726/Frontend.en.Rails.Ruby.Baq.Julio.2023.pdf) - [Repositorio con los ejemplos](https://gitlab.com/cesc1989/leisure-shelf-playground/)
 
 ## 28 de Junio 2023
 
