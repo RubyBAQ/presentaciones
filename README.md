@@ -4,6 +4,16 @@ Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al 
 
 > [Aquí](https://www.meetup.com/es/quillarb/events/past/) puedes ver todos los eventos anteriores de Ruby Baq.
 
+## 5 de Abril 2024
+
+**Manipulación y Generación de PDFs en Ruby** por Francisco Quintero
+
+¿Qué alternativas a WickedPDF tenemos en el mundo de Ruby para generar PDFs?
+
+En esta charla vamos a explorar el estado actual para la creación de PDFs y algunas alternativas a esta librería.
+
+[Ver presentación](./20240405/Generacion.y.Manipulacion.de.PDFs.en.Ruby.pdf) - [Ver repositorio](https://github.com/cesc1989/manipulacion-de-pdfs)
+
 ## 26 de Julio 2023
 
 **DevOps... ¿Y eso con qué se come?** por Raúl Córdoba
