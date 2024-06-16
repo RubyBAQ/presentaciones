@@ -4,6 +4,14 @@ Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al 
 
 > [Aquí](https://www.meetup.com/es/quillarb/events/past/) puedes ver todos los eventos anteriores de Ruby Baq.
 
+## 14 de Junio 2024
+
+**Multi Tenant en Rails** por Luis Porras
+
+Veremos algunas alternativas para aplicar el multi tenant en proyectos Rails.
+
+[Ver presentación](./20240614/Multi.Tenancy.in.Rails.pdf)
+
 ## 5 de Abril 2024
 
 **Manipulación y Generación de PDFs en Ruby** por Francisco Quintero
