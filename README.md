@@ -4,6 +4,14 @@ Presentaciones de eventos pasados del Meetup **Ruby Baq**. Del más reciente al 
 
 > [Aquí](https://www.meetup.com/es/quillarb/events/past/) puedes ver todos los eventos anteriores de Ruby Baq.
 
+## 20 de Agosto 2024
+
+**Desempeño en Aplicaciones Ruby on Rails** por Gabriel Coronado
+
+Esta charla explorará temas sobre cómo escalar Sidekiq, buenas prácticas de Caché, qué herramientas NO usar vs cuáles SÍ, manejo de memoria en Ruby, etc para que sepas como llevar tu aplicación Ruby on Rails al siguiente nivel.
+
+[Ver presentación](./20240820/Rails.Performance.pdf)
+
 ## 14 de Junio 2024
 
 **Multi Tenant en Rails** por Luis Porras
